@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 02:03:08.580956
-#+TITLE: 華陽陶隱居集
-#+PROPERTY: DZID  DZ1050
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，23—640 二卷 太玄部
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
